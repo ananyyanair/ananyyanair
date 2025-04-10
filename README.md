@@ -6,7 +6,8 @@ currently exploring AI, UX design & all things tech ✨
 
 ---
 
-![tech i'm exploring](https://img.shields.io/badge/tech%20i'm%20exploring-22223b?style=for-the-badge&color=22223b&labelColor=22223b&logoColor=c9ada7) 
+![tech i'm exploring](https://img.shields.io/badge/tech%20i'm%20exploring-22223b?style=for-the-badge&color=22223b&labelColor=22223b&logoColor=c9ada7)
+
 • machine learning • ai • ux design • figma • big data • data analysis • cybersecurity basics • python • java   
 
 ---
