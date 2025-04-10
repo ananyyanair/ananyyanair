@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">hey, i'm ananya 👋</h1>
 
-<!--
-**ananyyanair/ananyyanair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+currently exploring AI, UX design & all things tech ✨  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![tech i'm exploring](https://img.shields.io/badge/tech%20i'm%20exploring-22223b?style=for-the-badge&color=22223b&labelColor=22223b&logoColor=c9ada7) 
+• machine learning • ai • ux design • figma • big data • data analysis • cybersecurity basics • python • java   
+
+---
+
+### some of my work 🌸  
+- [IoT-Enabled Drones for CBRN Detection](https://dronethreatdetection.wordpress.com/) — a small blog i wrote!    
+
+---
+
+## 📊 GitHub Stats  
+
+<div align="center">
+
+![Ananya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ananyanair&show_icons=true&theme=material-palenight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ananyanair&layout=compact&theme=material-palenight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananyanair&theme=material-palenight)
+
+</div>
+
+---
+
+## watch my contributions snake around 🐍
+
+![snake gif](https://github.com/ananyanair/ananyanair/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<p align="center">
+✨ always learning | always building ✨
+</p>
