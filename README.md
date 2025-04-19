@@ -1,8 +1,7 @@
-<h1 align="center">hey, i'm ananya 👋</h1>
-
-<p align="center">
-currently exploring AI, UX design & all things tech ✨  
-</p>
+<h1 align="left">
+  Hello! I'm <strong>Your Name</strong>
+</h1>
+<p>I do open source :)</p>
 
 ---
 
