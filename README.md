@@ -1,8 +1,10 @@
-<h1 align="left">
+<h1 align="left" style="border-bottom: none; margin-bottom: 0;">
   Hello! I'm <strong>Your Name</strong>
 </h1>
-<p>I do open source :)</p>
-
+<p align="left" style="margin-top: 0;">I do open source :)</p>
+<p align="left">
+  I'm a self-taught passionate <strong>FrontEnd developer</strong> from <strong>India</strong> <strong>🇮🇳</strong>
+</p>
 ---
 
 ![tech i'm exploring](https://img.shields.io/badge/tech%20i'm%20exploring-22223b?style=for-the-badge&color=22223b&labelColor=22223b&logoColor=c9ada7)
